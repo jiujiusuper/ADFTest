@@ -1,0 +1,9 @@
+{
+	"name": "ADFTest20220223",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1c342747-d6f9-4fbb-9a1b-8fa9d05b1bdd",
+		"tenantId": "c023101b-be0d-4a03-991a-824f9032469a"
+	}
+}
