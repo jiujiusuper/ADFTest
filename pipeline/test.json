@@ -9,7 +9,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"message": "message",
-					"errorCode": "408"
+					"errorCode": "409"
 				}
 			}
 		],
